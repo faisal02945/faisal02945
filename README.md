@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faisal02945.
 - 👀 I’m interested in solving problems.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Design and Development
   
 - 😄 Pronouns: Faisal Imran
 - ⚡ Fun fact: Coding
