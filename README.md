@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @faisal02945.
-- 👀 I’m interested in solving problems.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on Design and Development
-  
+- 👋 Hi, I’m Faisal Imran from Pakistan.
+- 🔭 I’m currently working on Native Android applications.
+- 🌱 I’m currently learning Spring Boot, Ktor, SDL, C++, ML/AI, QT6.
+- 👯 I’m looking to collaborate on Android application projects.
+- 🤝 I’m looking for help with my existing projects to improve them.
+- 💬 Ask me about Android.
+- 📫 How to reach me faisalimran0029@gmail.com
+- 
 - 😄 Pronouns: Faisal Imran
-- ⚡ Fun fact: Coding
+⚡ Fun fact I think, I am not a developer, I am a creator
 
-<!---
-faisal02945/faisal02945 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
